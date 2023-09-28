@@ -9,3 +9,17 @@ learn about
 - ListenAndServe
 - FileServer
 - HandleFunc
+
+
+# Starting web server
+
+Execute the following commands in the root folder
+
+```go
+go run .
+```
+or 
+
+```go
+go run main.go
+```
